@@ -3,9 +3,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I’m currently working on [AI Powered Image Generator](https://github.com/sumityadav329/text-to-image-webapp.git)
+- 🔭 I’m currently working on [AI Powered Image Generator Repo](https://github.com/sumityadav329/text-to-image-webapp.git)
 
--  Click on this link to use the app [AI Image Generator](https://huggingface.co/spaces/sumityadav329/text-to-image-webapp)
+- ╰┈➤ [AI Image Generator App Demo ](https://huggingface.co/spaces/sumityadav329/text-to-image-webapp) Click on this link to use the app
 
 - 🌱 I’m currently learning **GenAI, LLMs**
 
