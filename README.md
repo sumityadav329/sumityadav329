@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sumit Yadav</h1>
-<h3 align="center">A Data enthusiast now Transitioning into a full-time Data Scientist from India</h3>
+<h3 align="center">A Data enthusiast now Transitioning into a full-time Data Scientist and Generative AI Engineer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I’m currently working on [Object-Detection](https://github.com/sumityadav329/object-detection-YOLOv8)
+- 🔭 I’m currently working on [AI Powered Image Generator](https://github.com/sumityadav329/text-to-image-webapp.git)
+
+-  [AI Image Generator](https://huggingface.co/spaces/sumityadav329/text-to-image-webapp)
 
 - 🌱 I’m currently learning **GenAI, LLMs**
 
