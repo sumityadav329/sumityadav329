@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [AI Powered Image Generator Repo](https://github.com/sumityadav329/text-to-image-webapp.git)
 
-- ╰┈➤ [AI Image Generator App Demo ](https://huggingface.co/spaces/sumityadav329/text-to-image-webapp) Click on this link to use the app
+- ╰┈➤[AI Image Generator App Demo ](https://huggingface.co/spaces/sumityadav329/text-to-image-webapp) 
 
 - 🌱 I’m currently learning **GenAI, LLMs**
 
