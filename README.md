@@ -3,11 +3,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I’m currently working on [AI Powered Image Generator Repo](https://github.com/sumityadav329/text-to-image-webapp.git)
+- 🔭 I’m currently working on [AI Agents](https://github.com/sumityadav329/AgenticAI.git)
 
 - ╰┈➤[AI Image Generator App Demo ](https://huggingface.co/spaces/sumityadav329/text-to-image-webapp) 
 
-- 🌱 I’m currently learning **GenAI, LLMs**
+- 🌱 I’m currently learning **AgenticAI, GenAI, LLMs**
 
 - 💬 Ask me about **python, machine learning, deep learning**
 
