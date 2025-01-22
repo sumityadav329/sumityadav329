@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sumit Yadav</h1>
-<h3 align="center">A Data enthusiast now Transitioning into a full-time Data Scientist and Generative AI Engineer from India</h3>
+<h3 align="center">A Data Scientist and AI\ML Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🔭 I’m currently working on [AI Agents](https://github.com/sumityadav329/AgenticAI.git)
 
-- ╰┈➤[AI Image Generator App Demo ](https://huggingface.co/spaces/sumityadav329/text-to-image-webapp) 
+- ╰┈➤[AI Agents App Demo ](https://agenticai-sumityadav329.streamlit.app/) 
 
 - 🌱 I’m currently learning **AgenticAI, GenAI, LLMs**
 
