@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f766e&height=180&section=header&text=Sumit%20Yadav&fontSize=42&fontColor=ffffff&desc=Full-Stack%20%26%20AI%20Engineer%20%7C%20Nordic%20Design%20House%20Pvt.%20Ltd.&descSize=14&descAlignY=64&descColor=ffffff" alt="Sumit Yadav banner"/>
+# Hi 👋, I'm **Sumit Yadav**
+
+### Full-Stack & AI Engineer · Nordic Design House Pvt. Ltd.
+
+*Building industrial AI, machine vision & enterprise software that ships to real factories.*
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+%26+AI+Engineer;Computer+Vision+%26+Machine+Learning;Agentic+AI+%26+LLMs;Building+Industrial+Software&center=true&width=600&height=50&color=0F766E&vCenter=true&size=22" alt="Typing SVG"/></a>
 
@@ -160,15 +164,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumityadav329&theme=tokyonight" alt="streak"/>
-</p>
-
----
-
-## 🔝 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sumityadav329&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+  <img src="https://streak-stats.demolab.com/?user=sumityadav329&theme=tokyonight" alt="streak"/>
 </p>
 
 ---
