@@ -55,11 +55,57 @@
 - 🏭 **Enterprise Systems** — Nordic OS, ERP, MES and E-QMS platforms
 - 🤖 **AI/ML** — model training pipelines, anomaly detection, agentic AI workflows
 
-> Most of my work lives in this organization's repositories as **[@sumit-ndh](https://github.com/sumit-ndh)**.
+> Most of my work lives in this organization's repositories as **[@sumit-ndh](https://github.com/sumit-ndh)** — contributions that GitHub does not count on a public profile graph because the repositories are private.
 
 </td>
 </tr>
 </table>
+
+---
+
+## 📊 By the Numbers
+
+> Totals below are measured directly from the git history of **27 repositories** across my Nordic Design House accounts, so they include the private-repository work that my public contribution graph cannot show.
+
+<table>
+<tr>
+<td align="center" width="25%">
+<h2>6,879</h2>
+<sub><b>Commits contributed</b><br/>across 27 repositories</sub>
+</td>
+<td align="center" width="25%">
+<h2>2,307</h2>
+<sub><b>as <a href="https://github.com/sumit-ndh">@sumit-ndh</a></b><br/>organization account</sub>
+</td>
+<td align="center" width="25%">
+<h2>18</h2>
+<sub><b>Repositories</b><br/>shipped &amp; maintained</sub>
+</td>
+<td align="center" width="25%">
+<h2>413</h2>
+<sub><b>Active days</b><br/>Apr 2025 &ndash; Nov 2026</sub>
+</td>
+</tr>
+</table>
+
+**Contribution split across my identities**
+
+| Identity | Commits | Scope |
+| --- | ---: | --- |
+| `sumityadav329` | 2,372 | Personal & public projects |
+| `sumit-ndh` | 2,307 | Nordic Design House org (private repos) |
+| `Sumit Yadav` | 2,200 | Local commits across company repos |
+| **Total** | **6,879** | **27 repositories · 18 directly contributed to** |
+
+**Where the work went**
+
+| Area | Repositories | My commits |
+| --- | --- | ---: |
+| 🖥️ Nordic ERP | `nordic-erp-nexus-view` | 1,527 |
+| 👁️ Nordic Vision | `nordic-vision`, `-patent-mono`, `-updated`, `-monolithic` | 3,159 |
+| 🧾 Nordic OS | `nordic-os` | 652 |
+| 🏭 Nordic MES | `nordic-mes` | 637 |
+| 📦 Other Nordic systems | `vms`, `nordic-patent-software`, `nordic-mgmt-app`, `bds-management-system`, `nordic-vision-model-trainer` | 890 |
 
 ---
 
