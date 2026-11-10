@@ -159,8 +159,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumityadav329&show_icons=true&theme=tokyonight&locale=en" alt="sumityadav329" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumityadav329&show_icons=true&layout=compact&theme=tokyonight&locale=en" alt="sumityadav329" height="160"/>
+  <img src="https://gh-readme-stats.vercel.app/api?username=sumityadav329&show_icons=true&theme=tokyonight&locale=en" alt="Sumit Yadav's GitHub Stats" height="160"/>
+  <img src="https://gh-readme-stats.vercel.app/api/top-langs?username=sumityadav329&show_icons=true&layout=compact&theme=tokyonight&locale=en" alt="Most Used Languages" height="160"/>
 </p>
 
 <p align="center">
