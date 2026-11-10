@@ -38,6 +38,31 @@
 
 ---
 
+## 🏢 Organizations
+
+<table>
+<tr>
+<td width="130" align="center">
+<img src="https://avatars.githubusercontent.com/u/193519894?s=200&v=4" width="90" alt="Nordic Design House"/>
+</td>
+<td>
+
+### [Nordic Design House](https://github.com/NordicDesignHouse) · India
+
+**Full-Stack & AI Engineer** — building industrial AI, machine vision and enterprise software for real manufacturing.
+
+- 👁️ **Computer Vision** — Nordic Vision inspection platform (YOLOX, PatchCore, ONNX, C++/Python)
+- 🏭 **Enterprise Systems** — Nordic OS, ERP, MES and E-QMS platforms
+- 🤖 **AI/ML** — model training pipelines, anomaly detection, agentic AI workflows
+
+> Most of my work lives in this organization's repositories as **[@sumit-ndh](https://github.com/sumit-ndh)**.
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🛠️ Projects at Nordic Design House Pvt. Ltd.
 
 > What I built, shipped and maintained as a **Full-Stack & AI Engineer** in a fast-moving startup.
